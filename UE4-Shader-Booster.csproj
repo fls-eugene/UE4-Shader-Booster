@@ -53,8 +53,12 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Additional\Preview Window.jpg" />
     <Content Include="UE4 Shader Booster.ico" />
     <Content Include="UE4 Shader Booster.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Builds\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
