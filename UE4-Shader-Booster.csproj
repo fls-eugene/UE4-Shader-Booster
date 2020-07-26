@@ -54,11 +54,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Additional\Preview Window.jpg" />
+    <Content Include="Builds\UE4-Shader-Booster.exe" />
     <Content Include="UE4 Shader Booster.ico" />
     <Content Include="UE4 Shader Booster.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Builds\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
